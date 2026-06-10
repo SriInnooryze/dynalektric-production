@@ -278,6 +278,11 @@ p { color: var(--ink-soft); text-wrap: pretty; font-size: clamp(1rem, 1.1vw, 1.0
   .topbar-logo img { width: 158px; }
 }
 @media (max-width: 1080px) {
+  .topbar-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
   .topbar-nav { display: none; }
   .topbar-meta { display: none; }
   .topbar-logo img { width: 124px; }
