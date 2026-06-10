@@ -78,7 +78,7 @@ function PageAbout({ navigate }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Manufacturing and engineering capability</span></div>
+            <div className="eyebrow"><span className="mono">Manufacturing and engineering capability</span></div>
             <div><h2>Designed, wound, wired and tested in-house.</h2></div>
           </div>
 
@@ -120,7 +120,7 @@ function PageAbout({ navigate }) {
       <section className="section reveal" style={{ background: 'var(--bg-alt)' }}>
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Quality and compliance</span></div>
+            <div className="eyebrow"><span className="mono">Quality and compliance</span></div>
             <div>
               <h2>Standards, testing and documentation.</h2>
               <p style={{ marginTop: 16, fontSize: 15, color: 'var(--ink-soft)' }}>
@@ -164,7 +164,7 @@ function PageAbout({ navigate }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Facility</span></div>
+            <div className="eyebrow"><span className="mono">Facility</span></div>
             <div><h2>One floor, one team, one engineering culture.</h2></div>
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 32 }}>

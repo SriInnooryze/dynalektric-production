@@ -581,7 +581,7 @@ function OrgSection({ navigate }) {
             ></image-slot>
           </div>
           <div className="org-body">
-            <div className="eyebrow"><span className="dot" /><span className="eyebrow-label">Inside Dynalektric</span></div>
+            <div className="eyebrow"><span className="eyebrow-label">Inside Dynalektric</span></div>
             <h2>The organisation behind every engineered solution.</h2>
             <p className="lead">Dynalektric combines engineering teams, manufacturing capability, testing processes and application experience within one operating environment.</p>
             <ul className="org-caps">
@@ -767,7 +767,7 @@ function PageHome({ navigate, tweaks }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="eyebrow-label">What we engineer</span></div>
+            <div className="eyebrow"><span className="eyebrow-label">What we engineer</span></div>
             <div>
               <h2>Engineering systems that power, control and support industrial operations.</h2>
               <p className="lead" style={{ marginTop: 16 }}>
@@ -784,7 +784,7 @@ function PageHome({ navigate, tweaks }) {
       <section className="section reveal" style={{ background: 'var(--panel-dark)', color: 'var(--on-dark)', margin: '0' }}>
         <div className="container">
           <div className="section-head" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
-            <div className="eyebrow"><span className="dot" /><span className="eyebrow-label on-dark">Industries &amp; applications</span></div>
+            <div className="eyebrow"><span className="eyebrow-label on-dark">Industries &amp; applications</span></div>
             <div>
               <h2 style={{ color: 'var(--bg)' }}>Engineering capability applied across demanding industries.</h2>
               <p style={{ marginTop: 16, fontSize: 15, color: 'rgba(244,244,241,0.7)', maxWidth: '60ch' }}>
@@ -802,7 +802,7 @@ function PageHome({ navigate, tweaks }) {
         <div className="container">
           <div className="rnd-teaser">
             <div className="rnd-teaser-copy">
-              <div className="eyebrow" style={{ marginBottom: 24 }}><span className="dot" /><span className="eyebrow-label">Engineering and NPD</span></div>
+              <div className="eyebrow" style={{ marginBottom: 24 }}><span className="eyebrow-label">Engineering and NPD</span></div>
               <h2>Custom requirements engineered in-house.</h2>
               <p className="lead" style={{ marginTop: 24 }}>
                 Our engineering and new product development teams take a customer specification through feasibility, design, prototyping, validation and pilot production. One team, one process.
@@ -832,7 +832,7 @@ function PageHome({ navigate, tweaks }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="eyebrow-label">Standards and testing</span></div>
+            <div className="eyebrow"><span className="eyebrow-label">Standards and testing</span></div>
             <div>
               <h2>Type-tested designs, full documentation, traceable processes.</h2>
               <p style={{ marginTop: 16, fontSize: 15, color: 'var(--ink-soft)' }}>
@@ -898,7 +898,7 @@ function PageHome({ navigate, tweaks }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="eyebrow-label">Case studies</span></div>
+            <div className="eyebrow"><span className="eyebrow-label">Case studies</span></div>
             <div>
               <h2>Engineering outcomes from real applications.</h2>
               <p style={{ marginTop: 16, fontSize: 15, color: 'var(--ink-soft)' }}>

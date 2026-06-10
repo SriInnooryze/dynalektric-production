@@ -62,7 +62,7 @@ function PageRnd({ navigate }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Focus areas</span></div>
+            <div className="eyebrow"><span className="mono">Focus areas</span></div>
             <div>
               <h2>Four programmes, one engineering team.</h2>
               <p style={{ marginTop: 16, fontSize: 15, color: 'var(--ink-soft)' }}>Hover any focus area to see programme deliverables in active development.</p>
@@ -95,7 +95,7 @@ function PageRnd({ navigate }) {
       <section className="section reveal" style={{ background: 'var(--panel-dark)', color: 'var(--on-dark)' }}>
         <div className="container">
           <div className="section-head" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
-            <div className="eyebrow"><span className="dot" /><span className="mono" style={{ color: 'rgba(244,244,241,0.6)' }}>Engineering workflow</span></div>
+            <div className="eyebrow"><span className="mono" style={{ color: 'rgba(244,244,241,0.6)' }}>Engineering workflow</span></div>
             <div><h2 style={{ color: 'var(--bg)' }}>How a Dynalektric project moves.</h2></div>
           </div>
           <div className="process-flow">

@@ -65,7 +65,7 @@ function PageExport({ navigate }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Global reach, sectors and portfolio</span></div>
+            <div className="eyebrow"><span className="mono">Global reach, sectors and portfolio</span></div>
             <div>
               <h2>Find the right export path by region, sector and product group.</h2>
               <p className="export-sub">Select a region, sector and product group to see the indicative HS heading, rating range, documentation and customisation for your requirement.</p>
@@ -79,7 +79,7 @@ function PageExport({ navigate }) {
       <section className="section reveal export-priority" style={{ background: 'var(--panel-dark)', color: 'var(--on-dark)' }}>
         <div className="container">
           <div className="section-head" style={{ borderColor: 'rgba(255,255,255,0.12)' }}>
-            <div className="eyebrow"><span className="dot" style={{ background: 'var(--accent)' }} /><span className="mono" style={{ color: 'rgba(244,244,241,0.6)' }}>Priority · Trust and verification</span></div>
+            <div className="eyebrow"><span className="mono" style={{ color: 'rgba(244,244,241,0.6)' }}>Priority · Trust and verification</span></div>
             <div>
               <h2 style={{ color: 'var(--on-dark)' }}>Verify Dynalektric as a supplier.</h2>
               <p className="export-sub" style={{ color: 'rgba(244,244,241,0.72)' }}>Legal identity, independent verification and financial readiness for procurement onboarding. Values shown as placeholders are confirmed with client-approved data.</p>
@@ -128,7 +128,7 @@ function PageExport({ navigate }) {
       <section className="section reveal export-priority" style={{ background: 'var(--bg-alt)' }}>
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" style={{ background: 'var(--accent)' }} /><span className="mono">Priority · Certifications and standards</span></div>
+            <div className="eyebrow"><span className="mono">Priority · Certifications and standards</span></div>
             <div>
               <h2>Certifications and standards by product and market.</h2>
               <p className="export-sub">A three-status view across management systems and product or market standards. Status reflects current position and is confirmed with certificate references on request.</p>
@@ -142,7 +142,7 @@ function PageExport({ navigate }) {
       <section className="section reveal export-priority">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" style={{ background: 'var(--accent)' }} /><span className="mono">Priority · Destination-market clearance</span></div>
+            <div className="eyebrow"><span className="mono">Priority · Destination-market clearance</span></div>
             <div>
               <h2>Destination-market clearance guidance.</h2>
               <p className="export-sub">Select a destination country and product group to view a likely compliance path. Schemes shown are indicative and confirmed per product and order.</p>
@@ -162,7 +162,7 @@ function PageExport({ navigate }) {
       <section className="section reveal" style={{ background: 'var(--bg-alt)' }}>
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Quality and inspection readiness</span></div>
+            <div className="eyebrow"><span className="mono">Quality and inspection readiness</span></div>
             <div>
               <h2>Engineering, quality and inspection readiness.</h2>
               <p className="export-sub">In-house engineering and documented quality discipline, built around your inspection plan and qualification programme.</p>
@@ -198,7 +198,7 @@ function PageExport({ navigate }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Trade compliance, ESG and IP</span></div>
+            <div className="eyebrow"><span className="mono">Trade compliance, ESG and IP</span></div>
             <div>
               <h2>Trade compliance, ESG and IP protection.</h2>
               <p className="export-sub">Screening, review and protection processes with clear status indicators. Items shown as under review or based on requirement are confirmed per order.</p>
@@ -235,7 +235,7 @@ function PageExport({ navigate }) {
       <section className="section reveal" style={{ background: 'var(--panel-dark)', color: 'var(--on-dark)' }}>
         <div className="container">
           <div className="section-head" style={{ borderColor: 'rgba(255,255,255,0.12)' }}>
-            <div className="eyebrow"><span className="dot" /><span className="mono" style={{ color: 'rgba(244,244,241,0.6)' }}>From RFQ to delivery</span></div>
+            <div className="eyebrow"><span className="mono" style={{ color: 'rgba(244,244,241,0.6)' }}>From RFQ to delivery</span></div>
             <div>
               <h2 style={{ color: 'var(--on-dark)' }}>From RFQ to delivery.</h2>
               <p className="export-sub" style={{ color: 'rgba(244,244,241,0.72)' }}>A structured export workflow with confirmed Incoterms, documentation and logistics support.</p>
@@ -291,7 +291,7 @@ function PageExport({ navigate }) {
       <section className="section reveal" style={{ paddingBottom: 'calc(var(--section-y) * 1.1)' }}>
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" style={{ background: 'var(--accent)' }} /><span className="mono">Start an export RFQ</span></div>
+            <div className="eyebrow"><span className="mono">Start an export RFQ</span></div>
             <div>
               <h2>Start an export RFQ.</h2>
               <p className="export-sub">A short multi-step enquiry. After-sales terms and common questions are below.</p>

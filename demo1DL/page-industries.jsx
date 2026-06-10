@@ -37,7 +37,7 @@ function PageIndustries({ navigate, focusId }) {
       <section className="section reveal">
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Capability matrix</span></div>
+            <div className="eyebrow"><span className="mono">Capability matrix</span></div>
             <div>
               <h2>Product group to industry fit.</h2>
             </div>
@@ -145,7 +145,7 @@ function PageIndustries({ navigate, focusId }) {
       <section className="section reveal" style={{ background: 'var(--bg-alt)' }}>
         <div className="container">
           <div className="section-head">
-            <div className="eyebrow"><span className="dot" /><span className="mono">Industry deep dive</span></div>
+            <div className="eyebrow"><span className="mono">Industry deep dive</span></div>
             <div>
               <h2>Six sectors, one engineering approach.</h2>
               <p style={{ marginTop: 16, fontSize: 15, color: 'var(--ink-soft)' }}>
